@@ -1,0 +1,11 @@
+.container {
+  max-width: 320px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.title,
+.subtitle {
+  color: #000000;
+  text-align: center;
+}
