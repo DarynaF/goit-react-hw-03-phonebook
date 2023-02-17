@@ -1,11 +1,8 @@
-.container {
-  max-width: 320px;
-  padding: 20px;
-  margin: 0 auto;
-}
-
-.title,
-.subtitle {
-  color: #000000;
-  text-align: center;
+.form {
+  width: 650px;
+  margin: 100px auto;
+  padding: 20px 40px;
+  border: 2px solid rgb(100, 100, 100);
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px rgb(100, 100, 100);
 }
